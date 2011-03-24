@@ -41,8 +41,8 @@ import android.widget.Toast;
 public class Tweety extends Activity implements OnClickListener, OnKeyListener {
     // Class variables
     private static final String TAG = "Tweety";
-    private static final String USERNAME = "thedevgeek";
-    private static final String PASSWORD = "Gulpcup1";
+    private static final String USERNAME = "(your username)";
+    private static final String PASSWORD = "(your password";
     private SharedPreferences prefs;
     static LocationHelper sLocationHelper;
 
